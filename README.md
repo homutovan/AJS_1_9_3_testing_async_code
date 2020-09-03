@@ -1,6 +1,8 @@
-# js env starter
+[![Build status](https://ci.appveyor.com/api/projects/status/guo90rguxxd3wgpf/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/ajs-1-9-3-testing-async-code/branch/master)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pgje30jtk2oevnyy/branch/master?svg=true)](https://ci.appveyor.com/project/homutovan/starter/branch/master)
+# Домашнее задание к лекции «Promises, async/await»
+
+## Testing Async code (задача со звёздочкой)
 
 ### Installation
 

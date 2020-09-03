@@ -12,6 +12,9 @@
       "WithStatement"
     ],
     "no-unused-vars": 0,
+    "no-return-await": 0,
+    "arrow-body-style": 0,
+    "no-multiple-empty-lines": 0,
     "no-console": ["error", { "allow": ["warn", "error", "log"] }]
   }
 }

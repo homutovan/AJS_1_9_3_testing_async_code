@@ -1,7 +1,7 @@
 {
-  "name": "starter",
+  "name": "ajs_1_9_3_testing_async_code",
   "version": "1.0.0",
-  "description": "js env starter",
+  "description": "ajs_1_9_3_testing_async_code",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homutovan/starter.git"
+    "url": "git+https://github.com/homutovan/AJS_1_9_3_testing_async_code.git"
   },
   "bugs": {
-    "url": "https://github.com/homutovan/starter/issues"
+    "url": "https://github.com/homutovan/AJS_1_9_3_testing_async_code/issues"
   },
-  "homepage": "https://github.com/homutovan/starter#readme",
+  "homepage": "https://github.com/homutovan/AJS_1_9_3_testing_async_code#readme",
   "author": "homutovan",
   "license": "ISC",
   "devDependencies": {
