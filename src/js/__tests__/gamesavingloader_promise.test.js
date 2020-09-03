@@ -21,7 +21,7 @@ test('Test case №1', async () => {
 });
 
 test('Test case №2', async () => {
-  parser.mockReturnValue(Data);
+  parser.mockReturnValue(testData);
   const save = await GameSavingLoader.load();
   expect(save).toEqual(rembo);
 });
